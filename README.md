@@ -1,2 +1,1 @@
-# Codeforces
-All about my Codeforces journey
+# Sorting algorithm and important questions
