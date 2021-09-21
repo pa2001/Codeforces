@@ -1,12 +1,5 @@
 #include<bits/stdc++.h>
 using namespace std;
-int get_max(vector<int>&v)
-{
-  int mx=INT_MIN;
-  for(int i=0;i<v.size();i++)
-  mx=max(mx,v[i]);
-  return mx;
-}
 int binary_search(vector<int>&v,int l,int r,int item)
 {
   if(l>=r)
